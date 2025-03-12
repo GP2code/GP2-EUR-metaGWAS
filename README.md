@@ -15,7 +15,8 @@ If you use this repository or find it helpful for your research, please cite the
 
 > Novel Parkinson’s Disease Genetic Risk Factors Within and Across European Populations (Global Parkinson's Genetics Program, 2025)
 >> Manuscript DOI: coming soon
->>  GitHub DOI: coming soon
+>> 
+>>  GitHub DOI: DOI 10.5281/zenodo.15013321
 
 ### Data Statement 
 * All GP2 data are hosted in collaboration with the Accelerating Medicines Partnership in Parkinson's Disease (AMP-PD) and are available via application on the website. The GP2 PD case and control data are available via the GP2 analysis platform (https://gp2.org; release 9: 10.5281/zenodo.14510099). 
