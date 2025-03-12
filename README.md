@@ -36,8 +36,14 @@ If you use this repository or find it helpful for your research, please cite the
 - The `analyses/` directory includes all analyses discussed in the manuscript
 
 ```
-analyses/
-...
+├── LICENSE.txt
+├── README.md
+└── analyses
+    ├── FUMA.ipynb
+    ├── METAL.ipynb
+    ├── OR_and_forest_plot.ipynb
+    ├── PoPS.ipynb
+    └── meta_GWASes.ipynb
 ```
 
 ---
