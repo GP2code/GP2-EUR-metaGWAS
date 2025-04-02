@@ -10,6 +10,8 @@
 ## Summary
 This is the online repository for the short report titled ***"Novel Parkinson’s Disease Genetic Risk Factors Within and Across European Populations"***. This study presents the largest meta-analysis of Parkinson’s disease genetic risk to date, incorporating data from over 64,000 cases, 17,700 proxy cases, and 1.75 million controls across diverse European ancestries (Finnish, Icelandic, Ashkenazi, and broadly European). By identifying 134 risk loci, including 59 novel ones, and integrating multi-omic data, we provide new insights into the genetic architecture of Parkinson’s disease, highlighting key genes and pathways for future research and therapeutic development.
 
+Summary statistics from every ancestry-level meta-analysis are available on NDPK (https://ndkp.hugeamp.org/research.html?pageid=a2f_downloads_280).
+
 ## Citation
 If you use this repository or find it helpful for your research, please cite the corresponding manuscript:
 
